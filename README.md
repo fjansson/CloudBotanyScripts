@@ -1,4 +1,6 @@
-#Cloud Botany material
+# Cloud Botany material
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7709434.svg)](https://doi.org/10.5281/zenodo.7709434)
 
 This repository contains material used to set up and visualize the Cloud Botany LES ensemble experiment.
 
